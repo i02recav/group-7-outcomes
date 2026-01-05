@@ -130,8 +130,8 @@ Rate your confidence level for each topic (1-5, where 5 is very confident):
 **Links to branches/commits**:
 - Link to your outcome branch: `https://github.com/jameraguilar/taller-master-ugr-tree-group-7-outcomes-intermediate/blob/main/OUTCOMES.md`
 - Key commits demonstrating your work:
-  - Commit hash: [Short description]
-  - Commit hash: [Short description]
+  - Commit hash: a346c6c2318c6070abdbe5a4ce7a14160a20fc8b
+ 
 
 
 ---
